@@ -1,0 +1,227 @@
+body, html, ul {
+    padding: 0;
+    margin: 0;
+}
+
+body,
+html,
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.container  {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    max-width: 1170px;
+}
+
+.pembungkus-atas    {
+    padding-top: 180px;
+    padding-bottom: 100px;
+    color: white;
+    background-image: url(WKWKWK.jpeg);
+    background-size: cover;
+    text-align: center;
+}
+
+.pembungkus-atas h1 {
+    opacity: 0.7;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+
+.pembungkus-atas p {
+    opacity: 0.7;
+    margin-bottom: 3px;
+}
+
+.tombol {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 15px;
+}
+
+.email  {
+    background-color: #239b76;
+}
+
+.facebook   {
+    background-color: #239b76;
+    margin-right: 40px;
+}
+
+.instagram  {
+    background-color: #239b76;
+}
+
+.pembungkus-tombol  {
+    margin: 20px 0;
+}
+
+.pembungkus-tombol p {
+    margin: 10px 0;
+}
+
+.tombol:hover   {
+    opacity: 5;
+}
+
+.bi {
+    margin-right: 10px;
+}
+
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+    position: fixed;
+    top: 0%;
+    z-index: 10;
+}
+
+.logo   {
+    width: 86px;
+    margin-top: 17px;
+}
+
+.header-kiri    {
+    float: left;
+}
+
+.header-kanan   {
+    float: right;
+    background-color: rgba(255, 255, 255, 0.3);
+    transition: all 0.5s;
+}
+
+.header-kanan a {
+    line-height: 65px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: white;
+    display: block;
+}
+
+.header-kanan:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.pembungkus-pelajaran   {
+    background-color: #cfcbcb;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+.judul  {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    color: #5f5d60;
+}
+
+.judul h2   {
+    font-weight: normal;
+}
+
+.materi {
+    float: left;
+    width: 25%;
+}
+
+.materi-icon    {
+    position: relative;
+}
+
+.materi-icon p  {
+    position: absolute;
+    top: 75px;
+    width: 100%;
+    color: white;
+}
+
+.materi-text    {
+    width: 80%;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #b3aeb5;
+}
+
+.message{
+    background-color: #5dca88;
+    padding: 15px 40px;
+}
+
+.heading h3 {
+    font-weight: normal;
+}
+
+.message-wrapper {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 80px;
+    text-align: center;
+}
+span.message {
+    cursor: pointer;
+    box-shadow: 0px 7px #1a7940;
+    color: white;
+}
+
+span.message:active {
+    box-shadow : none;
+    position: relative;
+    top: 7px;
+}
+
+footer img{
+    width: 125px;
+    position: relative;
+    left: 10px;
+}
+
+footer p {
+    color: #807b81;
+    font-size: 12px;
+}
+
+footer {
+    padding-top: 30px;
+}
+
+.clear {
+    clear: left;
+}
+
+.menu-icon {
+    color: white;
+    float: right;
+    font-size: 25px;
+    padding: 21px 0;
+    display: none;
+}
+
+.pembungkus-media h1 {
+    text-align: center;
+    color: gray;
+}
+
+video {
+    width: 100%;
+}
+
+.media {
+    text-align: center;
+    float: left;
+    width: 50%;
+    padding: 50px;
+}
+
+.pembungkus-media {
+    padding-bottom: 50px;
+    border-bottom: 1px solid lightgray;
+}

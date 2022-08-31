@@ -1,0 +1,61 @@
+@media(max-width: 1000px) {
+    .materi {
+        width: 50%;
+    }
+    .pembungkus-atas{
+        font-size: 32px;
+    }
+    .judul, .tombol {
+        font-size: 20px;
+    }
+}
+
+@media (max-width : 670px) {
+    .materi {
+        width: 100%;
+    }
+
+    footer {
+        text-align: center;
+    }
+    footer img {
+        left: 0px;
+    }
+    .tombol {
+        width: 80%;
+        text-align: center;
+        text-decoration: none;
+        font-size: 14px;
+    }
+    .facebook {
+        margin-bottom: 10px;
+    }
+    .pembungkus-atas {
+        text-align: left;
+        padding-top: 130px;
+    }
+    .pembungkus-atas h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .pembungkus-atas p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .pembungkus-tombol p {
+        text-align: center;
+    }
+    .menu-icon {
+        display: block;
+    }
+    .header-kanan {
+        display: none;
+    }
+    .menu-icon {
+        display: block;
+    }
+
+    .media {
+        width: 100%;
+    }
+}
