@@ -21,7 +21,7 @@ ul {
 .pembungkus-atas    {
     padding-top: 180px;
     padding-bottom: 100px;
-    color: white;
+    color: rgb(7, 6, 6);
     background-image: url(WKWKWK.jpeg);
     background-size: cover;
     text-align: center;
@@ -113,7 +113,7 @@ header {
 }
 
 .pembungkus-pelajaran   {
-    background-color: #cfcbcb;
+    background-color: #efebeb;
     padding-bottom: 80px;
     text-align: center;
 }
@@ -207,7 +207,7 @@ footer {
 
 .pembungkus-media h1 {
     text-align: center;
-    color: gray;
+    color: rgb(20, 18, 18);
 }
 
 video {
